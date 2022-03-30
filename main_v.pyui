@@ -1,0 +1,236 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{256, 0}, {256, 442}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "flex" : "WH",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "Image4",
+          "uuid" : "AD9EDB95-C851-460E-9943-E8A1C58928A4"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{256, 0}, {256, 32}}",
+        "class" : "View",
+        "attributes" : {
+          "alpha" : 0.5,
+          "flex" : "WB",
+          "frame" : "{{111, 162}, {100, 100}}",
+          "class" : "View",
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "uuid" : "CCA145BA-51ED-4739-B2A7-3380FC188803",
+          "name" : "view2"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{256, 0}, {256, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "alpha" : 1,
+          "flex" : "WB",
+          "font_name" : "<System>",
+          "frame" : "{{86, 196}, {150, 32}}",
+          "uuid" : "276F85E0-E90D-4882-BDC1-8269D64EE750",
+          "text" : "Label",
+          "alignment" : "center",
+          "class" : "Label",
+          "font_size" : 18,
+          "name" : "ImageTitle"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{256, 410}, {70, 70}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "uuid" : "AD9EDB95-C851-460E-9943-E8A1C58928A4",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "Image1",
+          "flex" : "RT"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{291, 401}, {70, 70}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "flex" : "RT",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "Image2",
+          "uuid" : "AD9EDB95-C851-460E-9943-E8A1C58928A4"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{326, 392}, {70, 70}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "uuid" : "AD9EDB95-C851-460E-9943-E8A1C58928A4",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "Image3",
+          "flex" : "RT"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{442, 410}, {70, 70}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "flex" : "LT",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "Image7",
+          "uuid" : "AD9EDB95-C851-460E-9943-E8A1C58928A4"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{407, 401}, {70, 70}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "uuid" : "AD9EDB95-C851-460E-9943-E8A1C58928A4",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "Image6",
+          "flex" : "LT"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{372, 392}, {70, 70}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "flex" : "LT",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "Image5",
+          "uuid" : "AD9EDB95-C851-460E-9943-E8A1C58928A4"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{256, 480}, {256, 32}}",
+        "class" : "View",
+        "attributes" : {
+          "alpha" : 0.5,
+          "flex" : "WT",
+          "frame" : "{{111, 162}, {100, 100}}",
+          "border_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "class" : "View",
+          "uuid" : "574BA887-AE77-45B9-8212-53CCC2E63D9C",
+          "name" : "view1"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{256, 480}, {104, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "RT",
+          "action" : "prev_img",
+          "frame" : "{{121, 196}, {80, 32}}",
+          "title" : "Back",
+          "uuid" : "518A06D3-97ED-4438-A7EE-23A1337829CD",
+          "class" : "Button",
+          "font_bold" : false,
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{408, 480}, {104, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "LT",
+          "action" : "next_img",
+          "frame" : "{{121, 196}, {80, 32}}",
+          "title" : "Next",
+          "uuid" : "518A06D3-97ED-4438-A7EE-23A1337829CD",
+          "class" : "Button",
+          "font_bold" : false,
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {256, 512}}",
+        "class" : "TableView",
+        "attributes" : {
+          "data_source_action" : "selectAlbumWithTable",
+          "uuid" : "895153FE-E00D-4A37-BE1B-759396B09973",
+          "background_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+          "frame" : "{{156, 156}, {200, 200}}",
+          "data_source_items" : "Row 1\nRow 2\nRow 3",
+          "data_source_number_of_lines" : 1,
+          "data_source_delete_enabled" : true,
+          "data_source_font_size" : 18,
+          "row_height" : 44,
+          "class" : "TableView",
+          "name" : "AlbumTable",
+          "flex" : "HR"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {512, 512}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
