@@ -1,3 +1,5 @@
+#a
+
 import ui
 import photos
 from console import hud_alert
@@ -62,6 +64,10 @@ def get7img(center):
 def update_img():
     global v
     global assets
+    global num
+    
+    v['ImageTitle'].text = f'残り{len(assets)-num}\n{num + 1}/{len(assets)}'
+    
     imageViews = [
         'Image1', 
         'Image2',
@@ -71,7 +77,7 @@ def update_img():
         'Image6',
         'Image7'
         ]
-    v['ImageTitle'].text = assets[num].local_id
+    # v['ImageTitle'].text = assets[num].local_id
     imgs = get7img(num)
     for i in range(7):
         if not i == 3:

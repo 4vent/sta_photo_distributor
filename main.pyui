@@ -30,7 +30,7 @@
           "content_width" : 512,
           "name" : "Image4"
         },
-        "selected" : false
+        "selected" : true
       },
       {
         "nodes" : [
@@ -53,7 +53,7 @@
         "nodes" : [
 
         ],
-        "frame" : "{{0, 0}, {512, 32}}",
+        "frame" : "{{0, 0}, {512, 64}}",
         "class" : "Label",
         "attributes" : {
           "alpha" : 1,
@@ -64,8 +64,8 @@
           "text" : "Label",
           "alignment" : "center",
           "class" : "Label",
-          "font_size" : 18,
-          "name" : "ImageTitle"
+          "name" : "ImageTitle",
+          "font_size" : 18
         },
         "selected" : false
       },
@@ -260,11 +260,11 @@
     "frame" : "{{0, 0}, {512, 512}}",
     "class" : "View",
     "attributes" : {
-      "name" : "",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
       "enabled" : true,
       "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
       "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
-      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "name" : "",
       "flex" : ""
     },
     "selected" : false
